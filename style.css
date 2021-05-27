@@ -1,0 +1,45 @@
+body{
+    padding: 30px;
+    background-image: url("wp.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+fieldset{
+    border: 0px;
+}
+h3{
+    font-size: 40px;
+    color: rgb(197, 252, 0);
+}
+legend{
+    font-size: 32px;
+    font-style: oblique;
+    font-weight: 300px;
+    color: rgb(200, 255, 0);
+}
+label{
+    font-size:  20px;
+    color: ivory;
+}
+.you{
+    font-size: 20px;
+    color: ivory;
+
+}
+p{
+    color: ivory;
+}
+img{
+    float: left;
+}
+h4{
+    margin-top: -5px;
+    font-size: 20px;
+    color: dodgerblue;
+}
+h5{
+    margin-top: -5px;
+    color: rgb(13, 219, 13);
+}
